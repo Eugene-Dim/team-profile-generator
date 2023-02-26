@@ -1,0 +1,24 @@
+.header {
+    background-color: #00eeff;
+}
+ 
+#mainTitle {
+    display: flex;
+    justify-content: center;
+}
+#managerTitle {
+    background-color: #aa33d2;
+}
+#engineerTitle {
+    background-color: #808d4e;
+}
+#internTitle {
+    background-color: #1af43b;
+}
+ 
+#cardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
+}
